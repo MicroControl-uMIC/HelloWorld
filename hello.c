@@ -1,8 +1,8 @@
 //============================================================================//
-// File:          hello.c                                                     //
+// File:         hello.c                                                      //
 // Description:  Simple "Hello world" example                                 //
 //                                                                            //
-// Copyright 2017 MicroControl GmbH & Co. KG                                  //
+// Copyright 2019 MicroControl GmbH & Co. KG                                  //
 // 53844 Troisdorf - Germany                                                  //
 // www.microcontrol.net                                                       //
 //                                                                            //
@@ -54,7 +54,7 @@
 //----------------------------------------------------------------------------//
 int main(int argc, char *argv[])
 {
-   printf("Hello world!\n");
+   printf("Hello world! \n");
 
    //----------------------------------------------------------------
    // do some LED blinking with LED 3 and LED 4, make sure that
