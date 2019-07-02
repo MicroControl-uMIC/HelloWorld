@@ -1,0 +1,22 @@
+=head2 Fri Jul  8 09:35:44 2016: C<Module> L<Shell|Shell>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.73>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
