@@ -55,7 +55,7 @@
 int main(int argc, char *argv[])
 {
    printf("Hello world! \n");
-
+    
    //----------------------------------------------------------------
    // do some LED blinking with LED 3 and LED 4, make sure that
    // the LEDs are not switched on
