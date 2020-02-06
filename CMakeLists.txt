@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.0)
+cmake_minimum_required (VERSION 3.1.0)
 
 set(CMAKE_SYSTEM_NAME Linux)
 set(CMAKE_SYSTEM_PROCESSOR arm)
@@ -14,7 +14,7 @@ set(CMAKE_FIND_ROOT_PATH_MODE_PACKAGE ONLY)
 
 include_directories(SYSTEM /opt/umic200/sysroot/usr/local/include)
 
-project (helloworld)
+project (helloworld VERSION 1.2.2)
 
 add_executable(${PROJECT_NAME} source/hello.c)
 target_link_libraries(${PROJECT_NAME} umic)
